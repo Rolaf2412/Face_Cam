@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+click
+setuptools<81
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models

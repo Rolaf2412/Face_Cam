@@ -1,0 +1,5 @@
+.venv/
+caras_conocidas/
+dataset/
+__pycache__/
+*.yml
